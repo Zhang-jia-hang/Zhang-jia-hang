@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<div align="center" >
   <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   <br>
@@ -60,10 +60,16 @@
 <br><br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhang-jia-hang)](https://github.com/anuraghazra/github-readme-stats)
-<img  src="https://github-readme-stats.vercel.app/api?username=Zhang-jia-hang&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Zhang-jia-hang&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhang-jia-hang&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhang-jia-hang&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
 
+<a href="https://github.com/Zhang-jia-hang/vue-pure-admin">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhang-jia-hang&repo=vue-pure-admin"/>
+</a>
+<a href="https://github.com/Zhang-jia-hang/vue-pure-admin">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhang-jia-hang&repo=vue-pure-admin"/>
+</a>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zhang-jia-hang&repo=vue-pure-admin)](https://github.com/Zhang-jia-hang/vue-pure-admin)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zhang-jia-hang&repo=community)](https://github.com/Zhang-jia-hang/community)
@@ -167,6 +173,17 @@
 
 
 <!--
-**Zhang-jia-hang/Zhang-jia-hang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Zhang-jia-hang/Zhang-jia-hang is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
