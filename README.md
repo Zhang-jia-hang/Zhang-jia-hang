@@ -35,48 +35,28 @@
 <!-- Work Experience 工作经历 -->
 ### 🏢 Work Experience
 
-
+<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
 - 广东中科四创科技有限公司  📌 2023-02-28 —— Now
   - 工作岗位：Java后端开发工程师
   - 工作内容：C端项目开发
 
-
-
 </td>
 </tr>
 
-<tr>
-  <td>
-    ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhang-jia-hang)
-  </td>
-</tr>
-
-<tr><td>
-
-### 📊 WakaTime
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Zhang-jia-hang&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Zhang-jia-hang&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Zhang-jia-hang&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
-
-
-
-</td></tr>
 </table>
+
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhang-jia-hang)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhang-jia-hang)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zhang-jia-hang&repo=vue-pure-admin)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ########################################## 分割 ########################################## -->
 
 <!--  skill badge 技能徽章 -->
 💪 正在学习
+
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
@@ -91,7 +71,6 @@
 
 🧠 计划学习
 
-
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
@@ -104,6 +83,7 @@
 
 
 🧰 常用的工具
+
 ![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![Lenovo Badge](https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat)
@@ -119,30 +99,8 @@
 <img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" />
 <br>
 
-<!-- svg -->
 
 
-
-
- 
-
-
-
-
-
-<br>
-
-<!-- gif -->
-
-
-
-
-
-
-
-
-
-<!-- just img 图片 -->
 </div>
 
 <!-- profile-3d-contrib 3D贡献图-->
@@ -179,17 +137,7 @@
 
 <br><br>
 
-<!-- Wakatime Graph-->
 
-<table>
-  <tr>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>
-  </tr>
-  <tr>
-    <td colspan="2"><a href="https://run.sunguoqi.com"><img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/running/assets/github_2023.svg" /></a><br></td>
-  </tr>
-</table>
 
 </div>
 
@@ -197,29 +145,6 @@
 
 
 <div align="center">
-
-<!-- run 图片 -->
-
-
-<!-- Joke 笑话 -->
-
-<div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
-
-<!-- github-readme-streak-stats 连续提交代码天数记录 -->
-
-
-
-
-<!-- Spotify 音乐 -->
-
-
-<!-- metrics 基础资料 -->
-
-
-
-
-<!-- My Blog 博客首页 -->
-
 
 
 
@@ -233,28 +158,6 @@
 
 </div>
 
-<!-- ########################################## 分割 ########################################## -->
-
-
-<!-- GitHub metrics 信息指标 -->
-
-
-
-<!-- just img 图片 -->
-
-
-<!-- first form 第一个表格 -->
-
-
-
-<!-- second form 第二个表格 -->
-
-
-
-
-<!-- just img 图片 -->
-
-</div>
 
 
 <!--
