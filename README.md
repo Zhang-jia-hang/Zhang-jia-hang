@@ -59,17 +59,18 @@
 
 <br><br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhang-jia-hang)](https://github.com/anuraghazra/github-readme-stats)
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Zhang-jia-hang&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhang-jia-hang&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Zhang-jia-hang" />
+
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhang-jia-hang"/>
 
 <a href="https://github.com/Zhang-jia-hang/vue-pure-admin">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhang-jia-hang&repo=vue-pure-admin"/>
 </a>
-<a href="https://github.com/Zhang-jia-hang/vue-pure-admin">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhang-jia-hang&repo=vue-pure-admin"/>
+<a href="https://github.com/Zhang-jia-hang/community">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhang-jia-hang&repo=community"/>
 </a>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zhang-jia-hang&repo=vue-pure-admin)](https://github.com/Zhang-jia-hang/vue-pure-admin)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zhang-jia-hang&repo=community)](https://github.com/Zhang-jia-hang/community)
