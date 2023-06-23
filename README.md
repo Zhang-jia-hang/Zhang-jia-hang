@@ -11,14 +11,14 @@
 </div>
 
 
-🙋 Hello
+### 🙋 Hello
 
 <table>
 <tr><td>
 
 <!-- About me 关于我 -->
 
-🤺 About Me
+### 🤺 About Me
 
 
 <p>&emsp;&emsp;大家好，我是张同学。</p>
@@ -33,86 +33,42 @@
 <td>
 
 <!-- Work Experience 工作经历 -->
-🏢 Work Experience
+### 🏢 Work Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-- 广州中科四创科技有限公司  📌 2023-02-28 —— Now
+
+- 广东中科四创科技有限公司  📌 2023-02-28 —— Now
   - 工作岗位：Java后端开发工程师
-  - 工作内容：C端相关项目
+  - 工作内容：C端项目开发
 
-<--! 工作
-- 蔚来汽车科技（安徽）有限公司  📌 2023-02-20 —— 2023-05-12
-  - 工作岗位：Web前端开发实习生
-  - 工作方向：一站式数据治理与开发
--->
+
 
 </td>
 </tr>
 
+<tr>
+  <td>
+    ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhang-jia-hang)
+  </td>
+</tr>
+
 <tr><td>
 
-📊 WakaTime
+### 📊 WakaTime
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Zhang-jia-hang&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Zhang-jia-hang&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Zhang-jia-hang&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
 </picture>
 
-!--START_SECTION:waka--
-I'm a Night 🦉 
 
-    🌞 Morning                219 commits         █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
-    🌆 Daytime                331 commits         ███████░░░░░░░░░░░░░░░░░░   27.45 % 
-    🌃 Evening                482 commits         ██████████░░░░░░░░░░░░░░░   39.97 % 
-    🌙 Night                  174 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-
-📅 I'm Most Productive on Friday 
-
-    Monday                   204 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-    Tuesday                  173 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-    Wednesday                130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-    Thursday                 105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-    Friday                   315 commits         ███████░░░░░░░░░░░░░░░░░░   26.12 % 
-    Saturday                 142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-    Sunday                   137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-
-📊 This Week I Spent My Time On 
-
-    🕑︎ Time Zone: Asia/Shanghai
-    
-    💬 Programming Languages: 
-    Markdown                 4 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   38.40 % 
-    Vue.js                   4 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   37.65 % 
-    JavaScript               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-    JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-    TypeScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-    
-    🔥 Editors: 
-    VS Code                  9 hrs 12 mins       ████████████████████░░░░░   80.71 % 
-    Obsidian                 1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-    PyCharm                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-    IntelliJ                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-    
-    💻 Operating System: 
-    Windows                  11 hrs 24 mins      █████████████████████████   100.00 % 
-
- Last Updated on 23/06/2023 01:50:58 UTC
-!--END_SECTION:waka--
 
 </td></tr>
 </table>
@@ -121,44 +77,46 @@ I'm a Night 🦉
 
 <!--  skill badge 技能徽章 -->
 💪 正在学习
-
-
-
-
-
-
-
-
-
-
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
+![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
+![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
 
 
 🧠 计划学习
 
 
-
-
-
-
-
-
-
-
+![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
+![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
+![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
+![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
+![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
 
 
 
 🧰 常用的工具
-
-
-
-
-
-
-
+![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
+![Lenovo Badge](https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat)
+![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
+![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
+![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
 
 
 <!-- programming tool icon 编程工具图标 -->
+<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" />
 <br>
 
 <!-- svg -->
@@ -211,6 +169,12 @@ I'm a Night 🦉
 
 <!-- Awesome repo 比较好的仓库-->
 
+<a href="https://github.com/Zhang-jia-hang/vue-pure-admin">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhang-jia-hang&repo=vue-pure-admin&theme=light&bg_color=121212&hide_border=true"/>
+</a>
+<a href="https://github.com/Zhang-jia-hang/community">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhang-jia-hang&repo=community&theme=light&bg_color=121212&hide_border=true"/>
+</a>
 
 
 <br><br>
@@ -247,9 +211,7 @@ I'm a Night 🦉
 
 
 <!-- Spotify 音乐 -->
-<!-- <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/shin_chan.gif" />&emsp;&emsp;&emsp;&emsp;
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31k53kp6hgkbovg72427dya5av44&cover_image=true&theme=default&show_offline=false&background_color=121212" />
-  &emsp;&emsp;&emsp;&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/shin_chan.gif" /> -->
+
 
 <!-- metrics 基础资料 -->
 
@@ -265,7 +227,7 @@ I'm a Night 🦉
 
 <table align="center">
   <tr>
-    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
+    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=Zhang-jia-hang&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
   </tr>
 </table>
 
@@ -276,51 +238,17 @@ I'm a Night 🦉
 
 <!-- GitHub metrics 信息指标 -->
 
-<div align="center">
+
 
 <!-- just img 图片 -->
 
 
 <!-- first form 第一个表格 -->
 
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/people.followers.svg" alt="people.followers" /></td>
-  </tr>
-</table>
+
 
 <!-- second form 第二个表格 -->
 
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/reactions.svg" alt="reactions" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/achievements.compact.svg" alt="achievements.compact" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/discussions.svg" alt="discussions" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stars.svg" alt="stars" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
-  </tr>
-</table>
 
 
 
