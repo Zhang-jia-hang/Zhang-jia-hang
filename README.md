@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+  <!-- knock code pictures 敲代码的图片 -->
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  <br>
+
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 
 <picture>
@@ -37,20 +41,32 @@
 
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
-- 广东中科四创科技有限公司  📌 2023-02-28 —— Now
+- [广东中科四创科技有限公司](http://www.zkisi.com/)  📌 2023-02-28 —— Now
   - 工作岗位：Java后端开发工程师
   - 工作内容：C端项目开发
+
+- [蔚来汽车科技有限公司](https://www.nio.cn/)  📌 2022-07-20 —— 2023-02-12
+  - 工作岗位：Java后端开发实习生
+  - 工作方向：一站式数据治理与开发
 
 </td>
 </tr>
 
 </table>
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhang-jia-hang)
+<!-- Awesome repo 比较好的仓库-->
+
+
+<br><br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhang-jia-hang)](https://github.com/anuraghazra/github-readme-stats)
+<img  src="https://github-readme-stats.vercel.app/api?username=Zhang-jia-hang&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zhang-jia-hang&repo=vue-pure-admin)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhang-jia-hang&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zhang-jia-hang&repo=vue-pure-admin)](https://github.com/Zhang-jia-hang/vue-pure-admin)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zhang-jia-hang&repo=community)](https://github.com/Zhang-jia-hang/community)
 
 <!-- ########################################## 分割 ########################################## -->
 
@@ -125,17 +141,7 @@
 
 <br><br>
 
-<!-- Awesome repo 比较好的仓库-->
 
-<a href="https://github.com/Zhang-jia-hang/vue-pure-admin">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhang-jia-hang&repo=vue-pure-admin&theme=light&bg_color=121212&hide_border=true"/>
-</a>
-<a href="https://github.com/Zhang-jia-hang/community">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhang-jia-hang&repo=community&theme=light&bg_color=121212&hide_border=true"/>
-</a>
-
-
-<br><br>
 
 
 
